@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project provides the full research workflow and computational implementation for the study **“Optimal Portfolio Size for Diversification in the IDX80 Index Using the Single Index Model.”**
+This project provides the full research workflow and computational implementation for the study **“Optimalisasi Jumlah Saham untuk Diversifikasi Portofolio pada Indeks IDX80 Berdasarkan Single Index Model”**
 The repository contains Python-based codes and analytical outputs used to evaluate how portfolio size affects risk, return, and performance when investing in Indonesian stocks listed in the IDX80 index during the January 2023– December 2024 period. The project emphasizes large-scale portfolio combination analysis to empirically determine the optimal number of stocks required for effective diversification.
 
 ## Research Objective
